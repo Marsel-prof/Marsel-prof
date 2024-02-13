@@ -10,11 +10,6 @@
   <img src="https://miro.medium.com/v2/resize:fit:640/1*2xZQAhBvwZ3sNJJAOOPaGQ.png" width="30" />
 <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png" width="30" />
   <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Emblem.png" width="30" />
-
-
-
-
-
 </div>
  
  
