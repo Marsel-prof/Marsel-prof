@@ -10,6 +10,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:640/1*2xZQAhBvwZ3sNJJAOOPaGQ.png" width="30" />
 <img src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png" width="30" />
   <img src="https://logos-world.net/wp-content/uploads/2022/01/NET-Framework-Emblem.png" width="30" />
+ <img src="https://camo.githubusercontent.com/7bb25411091742a267e9523b43ac98379733394f9d22115e113fd593ccc4fd46/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2e737667" width="30" />
 </div>
  
  
